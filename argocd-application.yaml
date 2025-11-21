@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: expense-tracker-app
+  name: expense-tracker
   namespace: argocd
 spec:
   project: default
